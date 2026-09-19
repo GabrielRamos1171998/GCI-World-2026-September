@@ -1,0 +1,14 @@
+﻿English,Spanish,Japanese,Definition
+Algorithm,Algoritmo,アルゴリズム,A finite sequence of steps used to solve a problem.
+Artificial Intelligence,Inteligencia Artificial,人工知能,Systems designed to perform tasks associated with human intelligence.
+Dataset,Conjunto de datos,データセット,A collection of structured or unstructured data.
+Data Science,Ciencia de Datos,データサイエンス,The study and application of methods for extracting knowledge from data.
+Feature,Característica,特徴量,An input variable used by a machine learning model.
+Machine Learning,Aprendizaje Automático,機械学習,Methods that allow systems to learn patterns from data.
+Model,Modelo,モデル,A mathematical or computational representation learned from data.
+Natural Language Processing,Procesamiento de Lenguaje Natural,自然言語処理,Techniques for processing and understanding human language.
+Neural Network,Red Neuronal,ニューラルネットワーク,A computational model inspired by interconnected biological neurons.
+Overfitting,Sobreajuste,過学習,When a model learns training data too closely and generalizes poorly.
+Python,Python,Python,A general-purpose programming language widely used in data and AI.
+Retrieval-Augmented Generation,Generación Aumentada por Recuperación,検索拡張生成,A method that combines retrieval of external information with generation.
+SQL,SQL,SQL,A language used to manage and query relational databases.
